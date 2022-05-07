@@ -53,6 +53,7 @@ Here I take different machine learning algorithms and try to find algorithms tha
 6. Decision Tree
 7. Support Vector Machine
 
+![](https://komarev.com/ghpvc/?username=adarshmalviy)
 
 ## Conclusion
 We started with the data exploration where we got a feeling for the dataset, checked about missing data and learned which features are important. During this process, we used Plotly, seaborn and matplotlib to do the visualizations. During the data preprocessing part, we converted features into numeric ones, grouped values into categories and created a few new features. Afterwards, we started training machine learning models and applied cross-validation to them. Of course, there is still room for improvement, like doing a more extensive feature engineering, by comparing and plotting the features against each other and identifying and removing the noisy features. **To increase the accuracy of the model we use ensembling. Here we use the stacking technique.**. Lastly, we looked at its confusion matrix and computed the models precision.
